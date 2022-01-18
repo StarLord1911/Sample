@@ -7,6 +7,21 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <header></header>
+    <section>
+        <nav>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <footer></footer>
+            </ul>
+        </nav>
+    </section>
 </body>
 </html>
